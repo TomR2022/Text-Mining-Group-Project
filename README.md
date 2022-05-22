@@ -1,39 +1,39 @@
 # Text-Mining-Group-Project
 Tom, Yop, Nick
 
-Title - Marvel vs DC Twitter sentiment analysis
+Title - How Modern is Modern Family?
 
-Abstract
+Abstract:
 
-A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+Utilizing Text Mining methods we have learned in class, available Modern Family transcripts, and a data set of google's most relevant searches this group will be attempting to see how "Modern" Modern family was through it's years airing, as well as viewing how the characters were represented over the years.
 
-Utilise a Twitter crawler to gather information and create our own dataset
+The Transcripts are compiled into several CSV files seperated by season. But not before removing all lines not stated by the main cast, then normalizing and semmatizing the lines. Then the Character Name, and the Line, Normalzied Line and Semmatized Line are all placed in a row for processing.
 
-Crawl tweets about Marvel and DC separately, compare sentiments to both franchises.
+From there, it only requires us to find most common non-stop words spoken per episode, season and by character. 
 
-When manual sentiment analysis is done, we have an algorithm determine the sentiment of a larger batch of tweets for both Marvel and DC
-
-Afterwards: Compare the sentiments we’ve found to each other, graphing how many people feel about each franchise on a scale of 1 to 5. (Very Negative, Negative, Neutral, Positive, Very Positive)
+Afterwards: We can compare the most spoken words per episode/season and compare them to the most searched phrases on google the year of and before the release of that season.
 
 Potential Additions:
-Utilise Geotaggers to mark down specifically where people find DC and Marvel appealing
-Can focus on certain languages other than english, although this may prove difficult as we are conducting the sentiment analysis ourselves.
+- Character Analysis
+  - Per Character, we can see the most common words and see how they've progressed throughout the airing of Modern Family
+  - We can additionally use general sentiment analysis to see how 'positive' or 'negative' each character is
 
 
 Research questions
 
 A list of research questions you would like to address during the project.
 
-How has the frequency and sentiment analysis of Marvel changed over time as it's cinematic universe (movies) has increased in size and popularity?
-Has one franchise always been favoured or typically had more positive sentiments than the other? 
+- How Modern is Modern Family compared to google search trends?
 
-Dataset 
+- Can we utilize Classic Text Mining Techniques to conduct character analysis for shows such as Modern Family?
 
-We have decided to use a web crawler to gather data for us. Therefore we will not be using a pre-existing dataset.
+Datasets:
 
-A tentative list of milestones for the project
+- Modern Family Transcripts
 
-Add here a sketch of your planning for the coming weeks. Please mention who does what.
+- Google Trends
+
+- General Sentiment Analysis Training Sets
 
 Documentation
 
