@@ -1,9 +1,12 @@
 # Text-Mining-Group-Project
 Tom, Yop, Nick
 
-Title - How Modern is Modern Family?
+Title - Modern Family character analysis utilising text mining methods.
 
 Abstract:
+
+
+
 
 Utilizing Text Mining methods we have learned in class, available Modern Family transcripts, and a data set of google's most relevant searches this group will be attempting to see how 'Modern' Modern Family was through it's years airing, as well as viewing how the characters were represented over the years.
 
