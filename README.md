@@ -1,4 +1,4 @@
-# Text-Mining-Group-Project
+### Text-Mining-Group-Project
 Tom, Yop, Nick
 
 Title - Modern Family character analysis utilising text mining methods.
@@ -40,4 +40,6 @@ Datasets:
 
 Documentation
 
-This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
+### Most frequent words by character 
+- Most frequent words by each character
+- All words each season 
