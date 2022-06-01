@@ -5,9 +5,6 @@ Title - Modern Family character analysis utilising text mining methods.
 
 Abstract:
 
-
-
-
 Utilizing Text Mining methods we have learned in class, available Modern Family transcripts, and a data set of google's most relevant searches this group will be attempting to see how 'Modern' Modern Family was through it's years airing, as well as viewing how the characters were represented over the years.
 
 The Transcripts are compiled into several CSV files seperated by season, after removing all lines not stated by the main cast, then normalizing and semmatizing them. Then the Character Name, and the Line, Normalized Line and Semmatized Line are all placed in a row for processing.
@@ -42,4 +39,11 @@ Documentation
 
 ### Most frequent words by character 
 - Most frequent words by each character
-- All words each season 
+- All words each season
+
+
+### How to Use the Sentiment ANalysis Notebook
+Before running the notebook, install opendatasets library (pip install opendatasets), then everything else should work fine.
+
+Be sure to have a Kaggle account set up before running the notebook.
+
