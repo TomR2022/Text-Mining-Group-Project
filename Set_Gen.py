@@ -1,5 +1,9 @@
 import pandas as pd
 
+def functionName():
+    test = true
+
+
 def txttocsv(filename):
     temp = open(filename,'r').read().splitlines()
     characters = ['Claire', 'Phil', 'Haley', 'Luke', 'Alex', 'Gloria', 
